@@ -1,0 +1,17 @@
+@import url("header.css");
+
+:root {
+  --header-color: 100deg, #dfccfb 0%, #beadfa 100%;
+  --color-one: #DFCCFB;
+  --color-two: #D0BFFF;
+  --color-three: #BEADFA;
+  --color-four: #FFF3DA;
+
+  --pattern-font: "Roboto Slab";
+}
+
+body {
+  font-family: var(--pattern-font);
+  font-weight: 300;
+}
+
